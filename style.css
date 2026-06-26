@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    padding:0;
+    background:#fff5f7;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    max-width:700px;
+    margin:40px auto;
+    background:white;
+    padding:40px;
+    border-radius:15px;
+    text-align:center;
+    box-shadow:0 0 20px rgba(0,0,0,.15);
+}
+
+h1{
+    color:#d63384;
+    font-size:48px;
+}
+
+h2{
+    color:#444;
+}
+
+h3{
+    color:#999;
+    letter-spacing:2px;
+}
+
+.invite{
+    font-size:20px;
+    line-height:1.8;
+}
+
+.details{
+    margin-top:30px;
+    font-size:18px;
+}
+
+button{
+    margin-top:30px;
+    background:#d63384;
+    color:white;
+    border:none;
+    padding:15px 30px;
+    font-size:18px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#b0256d;
+}
+
+#timer{
+    color:red;
+    font-size:24px;
+    font-weight:bold;
+}
+
+#message{
+    margin-top:20px;
+    color:green;
+    font-size:22px;
+}
